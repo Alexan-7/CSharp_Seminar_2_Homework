@@ -1,0 +1,15 @@
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\bin\Debug\net6.0\hw_13.exe
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\bin\Debug\net6.0\hw_13.deps.json
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\bin\Debug\net6.0\hw_13.runtimeconfig.json
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\bin\Debug\net6.0\hw_13.dll
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\bin\Debug\net6.0\hw_13.pdb
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\hw_13.csproj.AssemblyReference.cache
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\hw_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\hw_13.AssemblyInfoInputs.cache
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\hw_13.AssemblyInfo.cs
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\hw_13.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\hw_13.dll
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\refint\hw_13.dll
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\hw_13.pdb
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\hw_13.genruntimeconfig.cache
+D:\CSharp\CSharp_Seminar_2_Homework\hw_13\obj\Debug\net6.0\ref\hw_13.dll
